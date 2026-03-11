@@ -18,14 +18,14 @@ I am a developer passionate about building aesthetically pleasing and functional
 
 I specialize in building immersive media experiences that push the boundaries of Android's rendering capabilities. My work focuses on bridging the gap between hardware-level performance and modern, fluid UI design.
 
-### 📺 [Refract Vision](https://github.com/your-username/RefractVision) — *Hardware-Accelerated Video Engine*
+### 📺 [Refract Vision](https://github.com/melwindev/refractvision) — *Hardware-Accelerated Video Engine*
 A professional-grade video suite built from the ground up to handle high-fidelity media and real-time interface refraction.
 - **Architecture:** Clean MVVM with Jetpack Compose and Unidirectional Data Flow.
 - **Performance:** Optimized **ExoPlayer (Media3)** implementation using asynchronous pixel sampling via Kotlin Coroutines.
 - **Theming:** Real-time **Frame-Buffer analysis** to dynamically theme a Liquid Glass HUD without dropping frames.
 - **Features:** Hardware-accelerated rendering, HLS/Dash streaming, and advanced PiP (Picture-in-Picture) logic.
 
-### 🎵 [AmberPlayer](https://github.com/your-username/AmberPlayer) — *Dynamic Audio Player*
+### 🎵 [AmberPlayer](https://github.com/melwindev/amberplayer) — *Dynamic Audio Player*
 My initial exploration into Android development, focusing on high-end visual aesthetics and local media management.
 - **Liquid Glass UI:** Built with translucent layers and real-time Gaussian blur effects.
 - **Dynamic Theming:** Utilized the **Android Palette API** to synchronize the interface with album art color profiles.
